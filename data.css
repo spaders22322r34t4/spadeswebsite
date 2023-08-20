@@ -506,7 +506,7 @@
     }
 
     .home .MainMenu {
-        /*shading for the black box thing*/
+        max-width: 100%;
     }
     .contacter-inside .contacter-ani ul {
         font-size: 2rem;
